@@ -1,0 +1,7 @@
+blessed==1.19.0
+inquirer==2.8.0 # Latest version (2.9) contains backspace-not-working bug; don't upgrade.
+python-editor==1.0.4
+readchar==2.0.1 # backspace-not-working bug might be cause of this.
+six==1.16.0
+validate-email==1.3
+wcwidth==0.2.5
