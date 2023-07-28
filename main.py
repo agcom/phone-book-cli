@@ -1,13 +1,3 @@
-"""
-Created at: 25/4/2022
-Last modified at: 26/4/2022
-Author: Alireza Ghasemi
-
-Goal: phone book interactive CLI
-Input: user interactions with keyboard
-Output: manging a phone book
-"""
-
 import csv
 import os
 
