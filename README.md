@@ -1,27 +1,22 @@
-# Phone book interactive CLI (in Python)
+# Phone Book CLI
 
-Simple interactive CLI to manage contacts, written in Python; features include:
-- Create
+A simple interactive CLI to manage contacts, written in Python; features include:
+- Create & Delete
 - Search & List & Read
-- Delete
-- Import CSV
-- Export CSV
+- Import & Export CSV
 
 ## Usage example
 
 [![Usage example](https://asciinema.org/a/599531.svg)](https://asciinema.org/a/599531)
 
-## Build
+## Simple Build & Run
 
 ```shell
 # Create a virtual environment, activate it, and install dependencies.
-python -m venv .venv && \
-source .venv/bin/activate && \
+python -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
-```
 
-## Run
-
-```shell
+# Run
 python main.py
 ```
