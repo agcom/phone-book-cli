@@ -5,6 +5,8 @@ A simple interactive CLI to manage contacts, written in Python; features include
 - Search & List & Read
 - Import & Export CSV
 
+> This project was made as an assessment for the Special Subjects university course.
+
 ## Usage example
 
 [![Usage example](https://asciinema.org/a/599531.svg)](https://asciinema.org/a/599531)
